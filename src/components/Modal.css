@@ -1,0 +1,24 @@
+#Next-btn {
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#menu-btn {
+    width: 300px;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+
+.li {
+    color: black;
+    font-size: 20px;
+    text-decoration-line: line-through;
+}
+
+.li-pop {
+    color:rgb(105, 120, 32);
+    font-size: 15px;
+}
+

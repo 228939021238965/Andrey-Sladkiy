@@ -1,0 +1,35 @@
+.Slide {
+    width: 1920px;
+height: 1505px;
+top: 5257px;
+gap: 80px;
+opacity: 0px;
+background: rgba(8, 17, 48, 1);
+}
+
+#had {
+    margin-top: 1020px;
+}
+
+.Slider {
+        width: 1920px;
+height: 751px;
+top: 446px;
+left: -614px;
+gap: 70px;
+opacity: 0px;
+margin-top: -1150px;
+margin-left: 220px;
+}
+
+#num1 {
+    width: 1180px;
+height: 615px;
+left: 984px;
+padding: 70px 143px 70px 143px;
+gap: 54px;
+border-radius: 5px 0px 0px 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+
+}

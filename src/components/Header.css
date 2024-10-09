@@ -1,0 +1,196 @@
+@media (max-width: 1920px) { 
+    header{
+    width: 1920px;
+    height: 1295px;
+    top: -1px;
+    gap: 10px;
+    margin: 0px auto;
+}
+}
+
+.background-container {
+    background-image: url('../image-react/bg.png'); 
+    background-size: cover; 
+    background-position: center; 
+    height: 100vh;
+    color: white; 
+    position: relative;
+    width: 1920px;
+    height: 1295px;
+    gap: 0px;
+    opacity: 0px;
+    overflow: hidden;
+    background-size:100% auto;
+    background-repeat: no-repeat;
+
+}
+
+.header-cont {
+    width: 1920px;
+    height: 82px;
+    top: 37px;
+    gap: 36px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid rgba(126, 134, 142, 1);
+    align-items: center;
+    
+}
+
+.Header-container-path {
+    width: 1350px;
+    height: 82px;
+    top: 37px;
+    gap: 36px;
+    border: 1px 0px 0px 0px;
+    justify-content: center;   
+    align-items: flex-start; 
+    margin: 0 auto; 
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.overlay{
+    width:179px;
+    height: 31px;
+    top: 47px;
+    left: 370px;
+    gap: 17px;
+    opacity: 0px;
+    display: block;
+    text-align: left;          
+    padding: 20px; 
+    
+}
+
+h2 {
+    width:189px;
+    height: 31px;
+    top: 47px;
+    left: 370px;
+    gap: 17px;
+    opacity: 0px;
+    display: block;
+    text-align: left;          
+    padding: 20px;
+    margin-top: -15px;
+    
+}
+
+.container-number {
+    width: 160px;
+height: 36px;
+gap: 12px;
+opacity: 0px;
+color: rgb(196, 196, 196);
+font-size: 15px;
+display: flex;
+padding-left: 650px;
+}
+
+.container-adress {
+    width: 211px;
+height:51px;
+top: 37px;
+left: 1319px;
+gap: 15px;
+opacity: 0px;
+font-size: 25px;
+margin-top: -6px;
+}
+
+.every-day {
+    width: 179px;
+height: 20px;
+gap: 0px;
+opacity: 0px;
+font-size: 14px;
+font-weight: 400;
+line-height: 19.5px;
+color: rgb(211, 210, 210);
+padding-left: 15px;
+}
+
+.catalog {
+    width: 647px;
+height: 462px;
+top: 307px;
+left: 370px;
+gap: 40px;
+opacity: 0px;
+margin-top: 250px;
+padding: 0px 0px 0px 305px;
+}
+
+.vkusno{
+    width:  132px;
+    height: 37px; 
+border-radius: 5px;
+opacity: 0px;
+background-color: rgba(242, 246, 250, 1);
+color: rgba(46, 54, 62, 1);
+font-size: 15px;
+font-weight: 400;
+font-weight: 400;
+line-height: 16.5px;
+letter-spacing: 0.1em;
+text-align: center;
+}
+
+.MyButton {
+    width:  132px;
+    height: 37px;
+}
+
+.rub-container {
+    width: 647px;
+height: 180px;
+gap: 0px;
+opacity: 0px;
+font-size: 48px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: -1px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+margin-top: 20px;
+}
+
+.day-container {
+    width: 454px;
+height: 69px;
+gap: 0px;
+opacity: 0px;
+font-size: 24px;
+font-weight: 400;
+line-height: 34.32px;
+text-align: left;
+color: rgb(188, 188, 188);
+margin-top: 20px;
+}
+
+#my-btn {
+    width: 277px;
+height: 88px;
+padding: 30px 50px 30px 50px;
+gap: 10px;
+border-radius: 8px;
+opacity: 0px;
+background: rgba(254, 216, 76, 1);
+margin-top: 50px;
+font-size: 20px;
+}
+
+.vid-cont {
+    margin: -66px 0px 0px 305px;
+    width: 115px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+font-size: 15px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: rgb(206, 204, 204);
+}

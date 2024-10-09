@@ -1,0 +1,53 @@
+.Zakaz {
+    width: 1920px;
+height: 1545px;
+top: 6762px;
+padding: 2px 0px 4px 0px;
+gap: 80px;
+opacity: 0px;
+background: rgba(255, 255, 255, 1);
+
+}
+
+.text-txt-txt {
+    width: 938px;
+height: 109px;
+top: 2px;
+left: 491px;
+gap: 14px;
+opacity: 0px;
+margin: 0px auto;
+}
+
+h1 {
+    width: 938px;
+height: 60px;
+gap: 0px;
+opacity: 0px;
+font-size: 48px;
+font-weight: 500;
+line-height: 60px;
+letter-spacing: -1px;
+text-align: center;
+color: rgba(46, 54, 62, 1);
+
+}
+
+p {
+    width: 715px;
+height: 35px;
+gap: 0px;
+opacity: 0px;
+font-size: 24px;
+font-weight: 400;
+line-height: 34.32px;
+text-align: center;
+color: rgb(116, 118, 119);
+margin: 0px auto;
+margin-top: -20px;
+margin-right: 90px;
+}
+
+#Dod {
+    margin-top: 55px;
+}
