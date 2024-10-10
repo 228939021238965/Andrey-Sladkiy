@@ -20,7 +20,7 @@ const Konda = () => {
                     <div className="knda">
                         <div className="bobing">
                     <button className="Btn-good">Кто будет готовить?</button>
-                    <h1>Лично приготовлю  и всё красиво упакую  для вашего события</h1>
+                    <h1 id="txt-TXT">Лично приготовлю  и всё красиво упакую  для вашего события</h1>
                        </div>
                        <div id='text-text'>
                             <p id="text-p">Проконсультирую по выбору капкейков и придумаю нестандартную идею</p>
@@ -33,7 +33,7 @@ const Konda = () => {
     </div>
                 </div>
                 <img src={Woman} alt='Фото' id='photo'></img>
-                <img src={sli} alt="Фото" id='mot'></img>
+                <img src={sli} alt='Фото' id='mot'></img>
         </div>
     )
 }

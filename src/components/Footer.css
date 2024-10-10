@@ -57,3 +57,110 @@ text-align: center;
 color: rgb(150, 151, 152);
 
 }
+
+.num-pas {
+    width: 780px;
+height: 127px;
+gap: 24px;
+opacity: 0px;
+margin: 0px auto;
+margin-top: 50px;
+}
+
+.button-num {
+    width: 780px;
+height: 86px;
+gap: 20px;
+opacity: 0px;
+}
+
+.NUMBER {
+    width: 380px;
+height: 85px;
+padding: 30px 190px 29px 26px;
+gap: 10px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+background: rgba(242, 246, 250, 1);
+width: 132px;
+height: 24px;
+top: 32px;
+left: 58px;
+gap: 0px;
+opacity: 0px;
+font-size: 15px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: rgba(126, 134, 142, 1);
+
+}
+
+#btn-BTN {
+    width: 380px;
+height: 86px;
+padding: 29px 41px 29px 41px;
+gap: 10px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+background: rgba(254, 216, 76, 1);
+font-size: 18px;
+font-weight: 500;
+line-height: 27.36px;
+text-align: center;
+color: rgba(46, 54, 62, 1);
+}
+
+h4 {
+    width:705px;
+height: 17px;
+margin: 0px auto;
+opacity: 0px;
+color: rgba(126, 134, 142, 1);
+margin-top: 20px;
+}
+
+.txt-txt-txt {
+    width: 605px;
+height: 58px;
+top: 774px;
+left: 657.5px;
+gap: 0px;
+opacity: 0px;
+margin: 0px auto;
+margin-top: 50px;
+}
+
+.OPO {
+    width:605px;
+height: 18px;
+gap: 43px;
+opacity: 0px;
+display: flex;
+}
+
+h5 {
+    width: 595px;
+height: 18px;
+gap: 0px;
+opacity: 0px;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+text-align: right;
+color: rgba(126, 134, 142, 1);
+margin-top: -1px;
+}
+
+h3 {
+    width: 478px;
+height: 18px;
+gap: 0px;
+opacity: 0px;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+text-align: center;
+color: rgba(126, 134, 142, 1);
+margin: 0px auto;
+}
